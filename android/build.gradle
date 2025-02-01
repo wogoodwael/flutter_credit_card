@@ -19,6 +19,8 @@ android {
     }
 
     compileSdk 31
+    namespace "com.example.fluttercreditcard"
+
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
